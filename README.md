@@ -22,3 +22,4 @@ Ensured responsiveness and cross-browser compatibility for seamless performance 
 ![GLX TRL-9](https://github.com/SomeshSagabala/GLX-TRL/assets/153506392/3c51649b-8036-4ef5-a4e8-b4c24105c4c0)
 ![GLX TRL-10](https://github.com/SomeshSagabala/GLX-TRL/assets/153506392/a1ce991a-4e85-4fef-a5d4-aff3725f79cb)
 
+Technologies Used: HTML, CSS, Javascript, React.js
